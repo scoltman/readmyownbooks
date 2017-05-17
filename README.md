@@ -1,7 +1,3 @@
 # readmyownbooks
-Goodreads hack For % of read books
 
-
-This is based heavily off
-
-https://gist.github.com/steve-kertes/5862716
+Uses Goodreads API to find out the percentage of book that I own which I have also read
